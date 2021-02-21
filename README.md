@@ -13,3 +13,7 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git Add](./Commands/Add.md)
 
 - [git Commit](./Commands/Commit.md)
+
+- [git Push](./Commands/Push.md)
+
+
