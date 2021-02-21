@@ -18,4 +18,6 @@ Here is a growing collection of resources and helpful commands to know when work
 
 - [git Pull](./Commands/Pull.md)
 
+- [git Status](./Commands/Status.md)
+
 
