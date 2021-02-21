@@ -18,7 +18,7 @@ git status
 
 ## Resources 
 
-- [Git commit Documentation](https://git-scm.com/docs/git-commit)
+- [Git commit Documentation](https://git-scm.com/docs/git-status)
 ---
 
 [Back to home](../REAME.md)

@@ -11,7 +11,7 @@ git pull origi main
 If there is any upstream connection established, you can use `git pull` without specifying a remote or branch.
 
 ## Resources 
-- [Git Push Documentation](https:git-scm.com/docs-push)
+- [Git Push Documentation](https:git-scm.com/docs-pull)
 ---
 
 [Back to home](../README.md)
